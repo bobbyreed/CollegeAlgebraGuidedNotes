@@ -1,4 +1,4 @@
-# College Algebra with Professor Reed - MATH 1503 - Guided Notes
+# College Algebra - MATH 1503 - Guided Notes
 # Unit 8: Rational Expressions and Equations
 
 ## Key Concepts
@@ -277,3 +277,9 @@ Step 4: Solution: ____________________________
 5. Operations with rational expressions: Adding, subtracting, multiplying, and dividing.
 
 **Remember**: Always check for domain restrictions (values that make denominators zero)!
+
+---
+
+## Citation
+
+These guided notes were generated using Claude 3.7 Sonnet by Anthropic (March 24, 2025). The content was structured based on instructor-provided source materials from a college algebra course. The prompting approach involved requesting a comprehensive set of guided notes with fill-in-the-blank sections for key concepts, step-by-step practice problems, and common mistake warnings for each topic in Unit 8: Rational Expressions and Equations.
